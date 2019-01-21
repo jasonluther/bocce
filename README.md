@@ -336,3 +336,21 @@ I relied on many resources to plan and build my own court.
 ### OpenSCAD volume calculator	
 
 If you're super nerdy, you can use this [OpenSCAD model](bocce-court.scad) to estimate material volumes. 
+
+## Other Additions
+
+There are a few other additions I've made that are particular to our situation. 
+
+### Retractable Gaga Ball Pit
+
+[Gaga ball](https://youtu.be/-qxFzAmkFG8) is a game my kids enjoy, so we added the option to play Gaga on the bocce court. It's just two sets of cedar "fences" connected with hinges. When we're not playing gaga ball, it folds away. There are also some base pieces that keep the ball from escaping. 
+
+![Gaga ball pit](img/gaga.jpg)
+
+### Hiding Garbage
+
+To hide our garbage cans and air conditioning condensors, I built a cedar fence with removable panels. 
+
+![Garbage fence](img/garbage-fence.jpg)
+
+There's a gate on the left where we keep our garbage cans. The other four sections of fence are all panels that are attached to the posts with 2x4 joist hangers. Each one can be lifted up and out so that the air conditioning equipment can be serviced. 
