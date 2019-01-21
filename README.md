@@ -270,27 +270,27 @@ Don't forget [the balls](https://amzn.to/2C1FkCk)! You don't need anything expen
 As I said above, this project does not require a lot of tools, and you probably already have many of them. You don't necessarily need all of the tools in the list below, but these are the tools that I used, with approximate prices for common items. 
 
 * Material handling
- * [Shovel](https://amzn.to/2PkQbv8) for clearing earth and spreading material: $20
- * Wheelbarrow for moving earth
- * [Cement rake](https://amzn.to/2C34Kjd) for spreading material and leveling the surface: $20
- * [Metal rake](https://amzn.to/2Rz4Ynu) for spreading material and leveling the surface: $20
- * [Lawn roller](https://amzn.to/2NTwVZ7) for compacting and leveling the surface: $103
+  * [Shovel](https://amzn.to/2PkQbv8) for clearing earth and spreading material: $20
+  * Wheelbarrow for moving earth
+  * [Cement rake](https://amzn.to/2C34Kjd) for spreading material and leveling the surface: $20
+  * [Metal rake](https://amzn.to/2Rz4Ynu) for spreading material and leveling the surface: $20
+  * [Lawn roller](https://amzn.to/2NTwVZ7) for compacting and leveling the surface: $103
 * Woodworking
- * [drill](https://amzn.to/2ymaIIh)/[driver](https://amzn.to/2ymm27v) for attaching boards
- * [hammer](https://amzn.to/2C1K9vC) for driving rebar in rocky soil: $20
- * [circular saw](https://amzn.to/2IHGRyX) for cutting boards
- * [Speed square](https://amzn.to/2yhrnN2), a guide for making circular saw cuts: $8
- * [Router](https://amzn.to/2pFsKBi) for easing the edges of the border
- * [5/8 round-over router bit](https://amzn.to/2R6VJdU) for easing the edges of the border: $19
+  * [drill](https://amzn.to/2ymaIIh)/[driver](https://amzn.to/2ymm27v) for attaching boards
+  * [hammer](https://amzn.to/2C1K9vC) for driving rebar in rocky soil: $20
+  * [circular saw](https://amzn.to/2IHGRyX) for cutting boards
+  * [Speed square](https://amzn.to/2yhrnN2), a guide for making circular saw cuts: $8
+  * [Router](https://amzn.to/2pFsKBi) for easing the edges of the border
+  * [5/8 round-over router bit](https://amzn.to/2R6VJdU) for easing the edges of the border: $19
 * Layout
- * [String](https://amzn.to/2NO4k7b): $14
- * [String level](https://amzn.to/2ypcU1B): $3
- * [Water level](https://amzn.to/2OroIui): $14
- * [100' tape measure](https://amzn.to/2OkRaOB): $12
+  * [String](https://amzn.to/2NO4k7b): $14
+  * [String level](https://amzn.to/2ypcU1B): $3
+  * [Water level](https://amzn.to/2OroIui): $14
+  * [100' tape measure](https://amzn.to/2OkRaOB): $12
 * Safety
- * [Ear protection](https://amzn.to/2OZ2du3): $22
- * [Safety glasses](https://amzn.to/2NMfDNc): $7
- * [Respirator](https://amzn.to/2NsngU4) with [3M 2097](https://amzn.to/2C1Dh1c) cartridge: $24
+  * [Ear protection](https://amzn.to/2OZ2du3): $22
+  * [Safety glasses](https://amzn.to/2NMfDNc): $7
+  * [Respirator](https://amzn.to/2NsngU4) with [3M 2097](https://amzn.to/2C1Dh1c) cartridge: $24
 
 If you happen to be removing part of a driveway, I'd also recommend these: 
 
