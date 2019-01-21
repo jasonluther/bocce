@@ -220,13 +220,36 @@ After spreading out the material, I compacted it by tamping down on it with a [c
 
 ![Compacting the surface](img/surface.jpg)
 
-#### Play!
+### Play!
 
 ![Play!](img/first-game.jpg)
 
 The object of the game is to get your team's balls closer to the target ball than the opposing team's. 
 
 These are [our house rules](bocce-rules.md). 
+
+### Additions
+
+#### Ball cabinet
+
+This simple ball cabinet is made from 1/2" exterior-grade plywood, stained, and finished with polyurethane. It's attached to the house with a French cleat. 
+
+![Ball cabinet](img/cabinet.jpg)
+
+Each shelf has 4 holes drilled to keep the balls from rolling around. 
+
+#### Lighting
+
+Originally, I mounted flood lights on the tree that hung over the middle of the court. However, that tree eventually fell over in a snow storm. 
+
+![Flood lights](img/flood-lights.jpg)
+
+Inspired by [this article](http://brightjuly.blogspot.com/2012/09/diy-outdoor-string-lights.html), the court is currently lit with [LED string lights](https://www.costco.com/Feit-48'-LED-Filament-String-Light-Set.product.100405061.html). I would recommend using 1" conduit at each corner. You can see that the 3/4" conduit I'm using leans in. 1/2" is fine for the others. 
+
+![String lights](img/lighting.jpg)
+
+Because I had already done the wiring for the flood lights, I kept them and mounted the base to a cedar post. However, the string lights provide more than enough light for nighttime play. 
+
 
 ## Material Costs
 
