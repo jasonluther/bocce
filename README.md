@@ -2,7 +2,7 @@
 
 # Home Bocce Court
 
-We built our own home bocce court, and you can too! In this document I will share my experience. 
+We built our own home bocce court, and you can too! In this document I will share my experience. A shorter version of this article is available on [Instructables](https://www.instructables.com/id/Homemade-Bocce-Court/). 
 
 ![Finished bocce court](img/finished-bocce-court.jpg)
 
@@ -122,7 +122,7 @@ Don't be afraid to call up suppliers to ask what materials they recommend for a 
 
 ## Steps in Detail
 
-### Layout and leveling
+### Layout and Leveling
 
 ![Bocce court layout](img/bocce-court-layout.jpg)
 
@@ -294,7 +294,7 @@ As I said above, this project does not require a lot of tools, and you probably 
 
 If you happen to be removing part of a driveway, I'd also recommend these: 
 
- * [masonry blades](https://amzn.to/2BYTTqt) for circular saw
+ * [Masonry blades](https://amzn.to/2BYTTqt) for circular saw
  * [Bagsters](https://amzn.to/2Okz538) to dispose of asphalt
  * [Face shield](https://amzn.to/2xLc7sn): $13
 
