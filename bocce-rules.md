@@ -34,7 +34,7 @@ Start the next round from the opposite side.
 
 If the ball you throw hits the back wall, it's dead. Walk all the way over there and remove it from the court. 
 
-If it hits a ball after bouncing back from the wall, place the moved back to its original position. 
+If it hits a ball after bouncing back from the wall, place the moved ball back to its original position. 
 
 If you knock a ball into the back wall (with a valid throw or before your ball hits the back wall), the balls stay where they are. You can't knock someone else's ball out of play. 
 
