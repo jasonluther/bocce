@@ -347,6 +347,8 @@ There are a few other additions I've made that are particular to our situation.
 
 ![Gaga ball pit](img/gaga.jpg)
 
+I have details about another Gaga pit build [here](https://github.com/jasonluther/gaga). 
+
 ### Hiding Garbage
 
 To hide our garbage cans and air conditioning condensors, I built a cedar fence with removable panels. 
