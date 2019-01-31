@@ -83,11 +83,11 @@ This project does not require a lot of tools, and most of them are the same basi
 
 ### Sources
 
-I have included links to some of the materials and tools I used. Some of those are affiliate links, so I may earn a commission on purchases made through those links. 
+I have included links to some of the materials and tools I used. 
 
-However, I would much prefer if you bought these things from a local supplier instead of Amazon. With any DIY project, you're going to make multiple trips to the store, and you're going to want advice from experts. 
+I highly recommend shopping from local suppliers when you can. With any DIY project, you're likely to make multiple trips to the store, and you're going to want advice from experts. 
 
-None of this content is otherwise sponsored.
+None of this content is sponsored.
 
 I buy as much as I can from my local hardware store: [American Royal Hardware](https://ww3.truevalue.com/montclair/Home.aspx) in Montclair, NJ. 
 
@@ -351,7 +351,7 @@ I have details about another Gaga pit build [here](https://github.com/jasonluthe
 
 ### Hiding Garbage
 
-To hide our garbage cans and air conditioning condensors, I built a cedar fence with removable panels. 
+To hide our garbage cans and air conditioning condensers, I built a cedar fence with [removable panels](https://github.com/jasonluther/removable-fence). 
 
 ![Garbage fence](img/garbage-fence.jpg)
 
