@@ -26,7 +26,7 @@ However, you can do most of the construction alone if you have to.
 
 ### You can do it!
 
-A court doesn't have to be fancy or expensive. You can do little more than buy a set of [bocce balls](https://amzn.to/2C1FkCk) and have a great time playing in your sloped back yard. 
+A court doesn't have to be fancy or expensive. You can do little more than buy a set of bocce balls and have a great time playing in your sloped back yard. 
 
 As you look around online, you'll see a great variety of court size and complexity, and I am sure their owners are all having fun. 
 
@@ -176,15 +176,15 @@ I used 6x6 lumber, which is 5 1/2" on each side, which makes the border 11" tall
 
 The top of my border is 8" above the surface, but you can get by with less. 
 
-Each board on the bottom row is secured to the ground using 3-1/2' sections of 1/2" rebar. I had the lumber yard cut it for me, but it's really easy to cut using an [angle grinder](https://amzn.to/2zWU6c7) with a cutoff wheel. Drill a 1/2 hole near each end of the board and then drive the rebar into the ground with a hammer. You may need a [small sledgehammer](https://amzn.to/2C1K9vC) if you encounter rocks or have tough soil. 
+Each board on the bottom row is secured to the ground using 3-1/2' sections of 1/2" rebar. I had the lumber yard cut it for me, but it's really easy to cut using an angle grinder with a cutoff wheel. Drill a 1/2 hole near each end of the board and then drive the rebar into the ground with a hammer. You may need a small sledgehammer if you encounter rocks or have tough soil. 
 
-The top course is secured to the bottom course using [8" TimberLOK screws](https://amzn.to/2Ol9CGF). You'll need a decent drill/driver to drive these in. My old cordless drill wasn't sufficient, so I used a corded drill. A modern [cordless impact driver](https://amzn.to/2ymm27v) will work fine. You might also consider pre-drilling the holes. 
+The top course is secured to the bottom course using 8" TimberLOK screws. You'll need a decent drill/driver to drive these in. My old cordless drill wasn't sufficient, so I used a corded drill. A modern cordless impact driver will work fine. You might also consider pre-drilling the holes. 
 
 The way the dimensions worked out, I wasn't able to interleave the ends, but it would be a good idea. 
 
-I used a [circular saw](https://amzn.to/2IHGRyX) to cut the lumber. Use a [speed square](https://amzn.to/2yhrnN2) (also called a framing or rafter square) as a straightedge. You'll have to make a cut, rotate the board, repeat until you get through the material. 
+I used a circular saw to cut the lumber. Use a speed square (also called a framing or rafter square) as a straightedge. You'll have to make a cut, rotate the board, repeat until you get through the material. 
 
-As a final step, I used a [router](https://amzn.to/2pFsKBi) with a [5/8" round-over bit](https://amzn.to/2R6VJdU) to soften the edges. 
+As a final step, I used a router with a 5/8" round-over bit to soften the edges. 
 
 Many bocce courts will have an additional board at the end that absorbs the shock from a ball that hits the end (and is then out of play), but I don't. 
 
@@ -198,7 +198,7 @@ I put down a weed barrier to try to prevent weeds from growing up through the co
 
 Some people recommend using a layer of sand or smaller gravel to level out the base course of stone before installing the weed barrier, but I did not do that. 
 
-I used a [3'-wide roll of landscaping fabric](https://amzn.to/2OkxkDe), overlapping each row a bit and then tacking them together with a staple gun. I paid about $50 for a 300' roll. 
+I used a 3'-wide roll of landscaping fabric, overlapping each row a bit and then tacking them together with a staple gun. I paid about $50 for a 300' roll. 
 
 ### Playing Surface
 
@@ -216,7 +216,7 @@ Each year, I put down about 1000 lb. of Oyster Shell in the form of [50-lb. bags
 
 #### Compacting
 
-After spreading out the material, I compacted it by tamping down on it with a [cement rake](https://amzn.to/2C34Kjd) and then rolling over it with a [water-filled lawn roller](https://amzn.to/2NTwVZ7). 
+After spreading out the material, I compacted it by tamping down on it with a cement rake and then rolling over it with a water-filled lawn roller. 
 
 ![Compacting the surface](img/surface.jpg)
 
@@ -259,46 +259,46 @@ Prices are from 2014 in Northern NJ and include tax and delivery.
 * 12 tons of aglime, delivered: $495
 * (25) 12' pressure-treated 6x6s, delivered: $990
 * 80' of 1/2" rebar: $34
-* 300' x 3' [weed barrier](https://amzn.to/2OkxkDe): $53
-* [8" TimberLOK screws](https://amzn.to/2Ol9CGF) (box of 50): $37
+* 300' x 3' weed barrier: $53
+* 8" TimberLOK screws (box of 50): $37
 * (20) 50# bags of Oyster Shell: $200
 
-Don't forget [the balls](https://amzn.to/2C1FkCk)! You don't need anything expensive. And when your kids launch the pallino (the target) out of the court and into the bushes, replace it with a golf ball. 
+Don't forget the balls! You don't need anything expensive. And when your kids launch the pallino (the target) out of the court and into the bushes, replace it with a golf ball. 
 
 ## Tools
 
 As I said above, this project does not require a lot of tools, and you probably already have many of them. You don't necessarily need all of the tools in the list below, but these are the tools that I used, with approximate prices for common items. 
 
 * Material handling
-  * [Shovel](https://amzn.to/2PkQbv8) for clearing earth and spreading material: $20
+  * Shovel for clearing earth and spreading material: $20
   * Wheelbarrow for moving earth
-  * [Cement rake](https://amzn.to/2C34Kjd) for spreading material and leveling the surface: $20
-  * [Metal rake](https://amzn.to/2Rz4Ynu) for spreading material and leveling the surface: $20
-  * [Lawn roller](https://amzn.to/2NTwVZ7) for compacting and leveling the surface: $103
+  * Cement rake for spreading material and leveling the surface: $20
+  * Metal rake for spreading material and leveling the surface: $20
+  * Lawn roller for compacting and leveling the surface: $103
 * Woodworking
-  * [drill](https://amzn.to/2ymaIIh)/[driver](https://amzn.to/2ymm27v) for attaching boards
-  * [hammer](https://amzn.to/2C1K9vC) for driving rebar in rocky soil: $20
-  * [circular saw](https://amzn.to/2IHGRyX) for cutting boards
-  * [Speed square](https://amzn.to/2yhrnN2), a guide for making circular saw cuts: $8
-  * [Router](https://amzn.to/2pFsKBi) for easing the edges of the border
-  * [5/8 round-over router bit](https://amzn.to/2R6VJdU) for easing the edges of the border: $19
+  * drill/driver for attaching boards
+  * hammer for driving rebar in rocky soil: $20
+  * circular saw for cutting boards
+  * Speed square, a guide for making circular saw cuts: $8
+  * Router for easing the edges of the border
+  * 5/8 round-over router bit for easing the edges of the border: $19
 * Layout
-  * [String](https://amzn.to/2NO4k7b): $14
-  * [String level](https://amzn.to/2ypcU1B): $3
-  * [Water level](https://amzn.to/2OroIui): $14
-  * [100' tape measure](https://amzn.to/2OkRaOB): $12
+  * String: $14
+  * String level: $3
+  * Water level: $14
+  * 100' tape measure: $12
 * Safety
-  * [Ear protection](https://amzn.to/2OZ2du3): $22
-  * [Safety glasses](https://amzn.to/2NMfDNc): $7
-  * [Respirator](https://amzn.to/2NsngU4) with [3M 2097](https://amzn.to/2C1Dh1c) cartridge: $24
+  * Ear protection: $22
+  * Safety glasses: $7
+  * Respirator with 3M 2097 cartridge: $24
 
 If you happen to be removing part of a driveway, I'd also recommend these: 
 
- * [Masonry blades](https://amzn.to/2BYTTqt) for circular saw
- * [Bagsters](https://amzn.to/2Okz538) to dispose of asphalt
- * [Face shield](https://amzn.to/2xLc7sn): $13
+ * Masonry blades for circular saw
+ * Bagsters to dispose of asphalt
+ * Face shield: $13
 
-I also made a [drag mat](https://amzn.to/2Nrwm3z) out of two [scraper door mats](https://amzn.to/2zWtAj2), 1/2" plywood, and rope.
+I also made a drag mat out of two scraper door mats, 1/2" plywood, and rope.
 
 ### Investing in Tools
 
