@@ -1,6 +1,6 @@
 # Jason's House Rules for Bocce
 
-### Playing
+## Playing
 
 **Throw underhand.**
 
@@ -20,7 +20,7 @@ There should never be a tie during the round (see previous rule), but in the rar
 
 If there's a tie at the end, no team gets a point.
 
-### Scoring
+## Scoring
 
 The round ends when all the balls are thrown. Only one team can score points each round.
 
@@ -30,7 +30,7 @@ The losing team gets no points that round but throws the pallino first in the ne
 
 Start the next round from the opposite side.
 
-### Back Wall
+## Back Wall
 
 If the ball you throw hits the back wall, it's dead. Walk all the way over there and remove it from the court.
 
