@@ -9,7 +9,7 @@ width = 12 * FOOT;
 length = 56 * FOOT;
 
 primary_surface_depth = 4 * INCH;
-oyster_shell_depth = 1/2 * INCH; 
+oyster_shell_depth = 1/2 * INCH;
 leveling_layer_depth = 0 * INCH;
 weed_barrier_depth = 1/8 * INCH;
 drainage_layer_depth = 4 * INCH;
@@ -118,4 +118,3 @@ linear = 4 * (length + 2 * border_width) + 4 * (width);
 lf = linear / FOOT;
 echo("Linear feet with 2 courses: ", lf, "linear feet");
 }
-
