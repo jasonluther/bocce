@@ -1,0 +1,13 @@
+# The bundle's markdownlint defaults (kilotronic/lint src/markdownlint/.markdownlint.jsonc), which a repo
+# config replaces, plus this repo's own exception below.
+default: true
+MD013: false # line length: prettier wraps prose where the repository asks it to
+MD024:
+  siblings_only: true # the same heading under different parents
+MD033: false # inline HTML
+MD041: false # a file need not open with a heading
+MD055: false # table pipe style: prettier's
+MD056: false # table column count: prettier's
+MD060: false # table column style: prettier's
+MD026: # a heading may end in "!": the default punctuation list without it
+  punctuation: ".,;:。，；："
